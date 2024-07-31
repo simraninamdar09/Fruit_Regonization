@@ -39,8 +39,8 @@ elif(app_mode == "About"):
                 
     
 #Prediction Page
-elif(app_mode == "Fruti Recognition"):
-    st.header("FRuti" Recognition")
+elif(app_mode == "Fruit Recognition"):
+    st.header("Fruit Recognition")
     test_image = st.file_uploader("Choose as Image:")
     if(st.button("Show Image")):
         st.image(test_image,use_column_width=True)
