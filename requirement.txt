@@ -1,7 +1,4 @@
-pip==24.1.2
-streamlit==1.36.0
-pandas 
-numpy
-tensorflow-cpu==2.10.0
-seaborn
-
+streamlit==1.37.0
+tensorflow==2.10.0
+numpy==1.23.0
+pandas==2.0.3
