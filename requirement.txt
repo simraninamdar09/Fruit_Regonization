@@ -1,6 +1,7 @@
-pip show tensorflow
-pip install tensorflow==2.11.0
-seaborn
+pip==24.1.2
+streamlit==1.36.0
 pandas 
 numpy
+tensorflow==2.16.1
+seaborn
 
