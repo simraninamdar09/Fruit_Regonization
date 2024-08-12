@@ -1,6 +1,4 @@
 import streamlit as st
-import os
-os.system('pip install tensorflow')
 import tensorflow as tf
 import numpy as np
 import pandas as pd
