@@ -1,4 +1,5 @@
 pip==24.1.2
+pip install tensorflow
 streamlit==1.36.0
 tensorflow==2.16.1
 numpy==1.23.0
