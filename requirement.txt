@@ -1,5 +1,5 @@
 
-pip==24.2
+pip install tenserflow 
 tensorflow == 2.17.0
 numpy
 pandas
